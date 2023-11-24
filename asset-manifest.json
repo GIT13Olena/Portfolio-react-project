@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/react-template-app/static/css/main.8a01e19f.css",
-    "main.js": "/react-template-app/static/js/main.b3bb2cee.js",
-    "index.html": "/react-template-app/index.html",
-    "main.8a01e19f.css.map": "/react-template-app/static/css/main.8a01e19f.css.map",
-    "main.b3bb2cee.js.map": "/react-template-app/static/js/main.b3bb2cee.js.map"
+    "main.css": "/Portfolio-react-project/static/css/main.973b7bfe.css",
+    "main.js": "/Portfolio-react-project/static/js/main.610944b9.js",
+    "static/media/IMG_20231106_144434_628.jpg": "/Portfolio-react-project/static/media/IMG_20231106_144434_628.6662d4726be1ccdf53c7.jpg",
+    "static/media/gitHub.svg": "/Portfolio-react-project/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/instagram.svg": "/Portfolio-react-project/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
+    "static/media/linkedIn.svg": "/Portfolio-react-project/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
+    "index.html": "/Portfolio-react-project/index.html",
+    "static/media/telegram.svg": "/Portfolio-react-project/static/media/telegram.bcc6ff107fead52fed88295c3dd46a1c.svg",
+    "static/media/download CV.svg": "/Portfolio-react-project/static/media/download CV.80f902dee237153c2a8a2d5942c15493.svg",
+    "main.973b7bfe.css.map": "/Portfolio-react-project/static/css/main.973b7bfe.css.map",
+    "main.610944b9.js.map": "/Portfolio-react-project/static/js/main.610944b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a01e19f.css",
-    "static/js/main.b3bb2cee.js"
+    "static/css/main.973b7bfe.css",
+    "static/js/main.610944b9.js"
   ]
 }
