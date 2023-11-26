@@ -14,10 +14,10 @@ function Footer () {
                       <li><a href="mailto:girnyak.1olena@gmail.com">📬 girnyak.1olena@gmail.com</a></li>
                   </ul>
                   <ul className="social">
-                      <li className="social__item"><a href="https://www.instagram.com/t_m_olena_/" rel="noreferrer"><img src={instagram} alt="Link"/></a></li>
-                      <li className="social__item"><a href="https://github.com/GIT13Olena" rel="noreferrer"><img src={github} alt="Link"/></a></li>
-                      <li className="social__item"><a href="http://www.linkedin.com/in/olenagirnyak" rel="noreferrer"><img src={linkedIn} alt="Link"/></a></li>
-                      <li className="social__item"><a href="https://t.me/Black_13_soul" rel="noreferrer"><img src={telegram} alt="Link"/></a></li>
+                      <li className="social__item"><a href="https://www.instagram.com/t_m_olena_/" target="_blank"  rel="noreferrer"><img src={instagram} alt="Link"/></a></li>
+                      <li className="social__item"><a href="https://github.com/GIT13Olena" target="_blank"  rel="noreferrer"><img src={github} alt="Link"/></a></li>
+                      <li className="social__item"><a href="http://www.linkedin.com/in/olenagirnyak" target="_blank"  rel="noreferrer"><img src={linkedIn} alt="Link"/></a></li>
+                      <li className="social__item"><a href="https://t.me/Black_13_soul" target="_blank"  rel="noreferrer"><img src={telegram} alt="Link"/></a></li>
                   </ul>
               </div>
           </div>

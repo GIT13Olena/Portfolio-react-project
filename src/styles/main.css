@@ -34,9 +34,7 @@
 }
 
 html,
-body {
-	display: flex;
-	flex-direction: column;
+body {	
 	min-height: 100vh;
 
 	font-family: 'DM Sans', sans-serif;
@@ -45,6 +43,21 @@ body {
 	/* Light mode */
 	background-color: var(--page-bg);
 	color: var(--text-color);
+}
+
+#root{
+	min-height: 100vh;
+}
+
+.App{
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.arrowSvg{
+	width: 40px;
+	height: 40px;
 }
 
 /* General */
@@ -275,6 +288,7 @@ body {
 
 .link-button{
 	display: flex;
+	align-items: center;
 	gap: 15px;
 }
 
