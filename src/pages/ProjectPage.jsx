@@ -1,10 +1,9 @@
 import { useParams } from "react-router-dom";
 import { projects } from "../helpers/projectsLists";
-import { NavLink } from "react-router-dom";
 
 import monitor from "../img/icons/monitor.svg"
 import gitHubBlack from "../img/icons/gitHub-black.svg"
-import arrow from "../img/icons/arrow.svg"
+
 
 
 function ProjectPage () {
@@ -28,9 +27,9 @@ function ProjectPage () {
                         </div>
 
                         <div className="link-button">
-                            <NavLink to="/projects">
-                                <img src={arrow} alt="arrow" className="arrowSvg"/>
-                            </NavLink>
+                            
+                                
+                            
                             {project.website && (
                                 <a href={project.website} target="_blank" rel="noreferrer" className="btn-outline">
                                     <img src={monitor} alt="svg monitor"/>
