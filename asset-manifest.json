@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-react-project/static/css/main.f270ed76.css",
-    "main.js": "/Portfolio-react-project/static/js/main.5020167e.js",
-    "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.f65c17b3f1f50804c852.png",
-    "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.8ad0a6c61c46f1182379.png",
-    "static/media/All project Rental Car.png": "/Portfolio-react-project/static/media/All project Rental Car.8df2e2d1d979d6ae637b.png",
-    "static/media/All project Web Studio.png": "/Portfolio-react-project/static/media/All project Web Studio.63ebfb8b1056a87a633b.png",
-    "static/media/Rental Car.png": "/Portfolio-react-project/static/media/Rental Car.8887a4ad9166813aac67.png",
-    "static/media/Web Studio.png": "/Portfolio-react-project/static/media/Web Studio.962c295d92b49c7415d8.png",
-    "static/media/Ice Cream.png": "/Portfolio-react-project/static/media/Ice Cream.b46a995e659558e58b8f.png",
+    "main.js": "/Portfolio-react-project/static/js/main.5125d328.js",
+    "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.720109650fd53feed98f.png",
+    "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.ce842c377effbce066e5.png",
     "static/media/IMG_20231106_144434_628.jpg": "/Portfolio-react-project/static/media/IMG_20231106_144434_628.6662d4726be1ccdf53c7.jpg",
-    "static/media/BookStore.png": "/Portfolio-react-project/static/media/BookStore.eb715d0cca6030ded6aa.png",
-    "static/media/All project Healthy Hub.png": "/Portfolio-react-project/static/media/All project Healthy Hub.8dda8a8cf60fc60605c7.png",
-    "static/media/Healthy Hab.png": "/Portfolio-react-project/static/media/Healthy Hab.f6f16a494894dcf8fb7f.png",
+    "static/media/All project Rental Car.png": "/Portfolio-react-project/static/media/All project Rental Car.57b6b51d2612f7195e57.png",
+    "static/media/All project Web Studio.png": "/Portfolio-react-project/static/media/All project Web Studio.8a4e5e8dd1e5d8cdfdee.png",
+    "static/media/Rental Car.png": "/Portfolio-react-project/static/media/Rental Car.873e4a91fc998e6c07b7.png",
+    "static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.pdf": "/Portfolio-react-project/static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.42d2376501d03577e426.pdf",
+    "static/media/All project Healthy Hub.png": "/Portfolio-react-project/static/media/All project Healthy Hub.d8a7ae4bb07f3a57f5bb.png",
+    "static/media/Web Studio.png": "/Portfolio-react-project/static/media/Web Studio.95dfaeb419ac04cd7796.png",
+    "static/media/Ice Cream.png": "/Portfolio-react-project/static/media/Ice Cream.3349edb20c18d2c948a3.png",
+    "static/media/BookStore.png": "/Portfolio-react-project/static/media/BookStore.069aded68d259619fe78.png",
+    "static/media/Healthy Hab.png": "/Portfolio-react-project/static/media/Healthy Hab.0aacf5ac36152f0371ab.png",
     "static/media/gitHub.svg": "/Portfolio-react-project/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "static/media/gitHub-black.svg": "/Portfolio-react-project/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/instagram.svg": "/Portfolio-react-project/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
@@ -23,10 +24,10 @@
     "static/media/arrow.svg": "/Portfolio-react-project/static/media/arrow.30bd8226a30274e3c304f44aa8d634b4.svg",
     "static/media/download CV.svg": "/Portfolio-react-project/static/media/download CV.80f902dee237153c2a8a2d5942c15493.svg",
     "main.f270ed76.css.map": "/Portfolio-react-project/static/css/main.f270ed76.css.map",
-    "main.5020167e.js.map": "/Portfolio-react-project/static/js/main.5020167e.js.map"
+    "main.5125d328.js.map": "/Portfolio-react-project/static/js/main.5125d328.js.map"
   },
   "entrypoints": [
     "static/css/main.f270ed76.css",
-    "static/js/main.5020167e.js"
+    "static/js/main.5125d328.js"
   ]
 }
