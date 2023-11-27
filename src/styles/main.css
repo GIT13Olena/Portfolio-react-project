@@ -58,6 +58,7 @@ body {
 .btnSvg{
 	display: flex;
 	justify-content: space-between;
+	margin-top: 27px;
 }
 
 .arrowSvg {
@@ -66,7 +67,6 @@ body {
     background-color: var(--purple);
     border-radius: 5px;
     border: 1px solid #000;
-    margin: 15px;
 }
 
 .arrowUpSvg {
@@ -75,7 +75,6 @@ body {
     background-color: var(--purple);
     border-radius: 5px;
     border: 1px solid #000;
-    margin: 15px;
 }
 
 /* General */
@@ -91,7 +90,7 @@ body {
 }
 
 .section {
-	padding: 70px 0;
+	padding: 70px 0 ;
 }
 
 .title-1 {
