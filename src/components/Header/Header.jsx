@@ -1,5 +1,5 @@
 import download from "../../img/icons/download CV.svg"
-
+import resume from "../../img/ResumePdf/Resume Hirniak_Olena_JuniorFullStackDeveloper.pdf"
 
 function Header () {
    return (
@@ -12,7 +12,7 @@ function Header () {
               <div className="header__text">
                   <p>My projects are creative magic that creates the future.</p>
               </div>
-              <a href="https://drive.google.com/file/d/1YXInH9sqUVy9gQM-ZI-TEgSaVB03BZFg/view?usp=sharing" className="btn">
+              <a href={resume} download="Resume Hirniak_Olena_JuniorFullStackDeveloper" className="btn">
                   <img src={download} alt="Link" />
                   Download CV 
               </a>

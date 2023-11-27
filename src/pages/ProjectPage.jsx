@@ -32,13 +32,13 @@ function ProjectPage () {
                                 <img src={arrow} alt="arrow" className="arrowSvg"/>
                             </NavLink>
                             {project.website && (
-                                <a href={project.website} target="_blank" className="btn-outline">
+                                <a href={project.website} target="_blank" rel="noreferrer" className="btn-outline">
                                     <img src={monitor} alt="svg monitor"/>
                                     Website
                                 </a>
                             )}
                             {project.gitHubLink && (
-                                <a href={project.gitHubLink} target="_blank" className="btn-outline">
+                                <a href={project.gitHubLink} target="_blank" rel="noreferrer" className="btn-outline">
                                     <img src={gitHubBlack} alt="svg gitHub"/>
                                     GitHub
                                 </a>
