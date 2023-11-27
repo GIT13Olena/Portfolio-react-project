@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-react-project/static/css/main.f270ed76.css",
-    "main.js": "/Portfolio-react-project/static/js/main.5125d328.js",
+    "main.css": "/Portfolio-react-project/static/css/main.d14dca92.css",
+    "main.js": "/Portfolio-react-project/static/js/main.831475ac.js",
     "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.720109650fd53feed98f.png",
     "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.ce842c377effbce066e5.png",
     "static/media/IMG_20231106_144434_628.jpg": "/Portfolio-react-project/static/media/IMG_20231106_144434_628.6662d4726be1ccdf53c7.jpg",
@@ -21,13 +21,14 @@
     "index.html": "/Portfolio-react-project/index.html",
     "static/media/telegram.svg": "/Portfolio-react-project/static/media/telegram.bcc6ff107fead52fed88295c3dd46a1c.svg",
     "static/media/monitor.svg": "/Portfolio-react-project/static/media/monitor.64721baa3dcab838f1c1b5b4afdbd09c.svg",
+    "static/media/arrowUp.svg": "/Portfolio-react-project/static/media/arrowUp.4f679249c4242ee95632fa9306de222a.svg",
     "static/media/arrow.svg": "/Portfolio-react-project/static/media/arrow.30bd8226a30274e3c304f44aa8d634b4.svg",
     "static/media/download CV.svg": "/Portfolio-react-project/static/media/download CV.80f902dee237153c2a8a2d5942c15493.svg",
-    "main.f270ed76.css.map": "/Portfolio-react-project/static/css/main.f270ed76.css.map",
-    "main.5125d328.js.map": "/Portfolio-react-project/static/js/main.5125d328.js.map"
+    "main.d14dca92.css.map": "/Portfolio-react-project/static/css/main.d14dca92.css.map",
+    "main.831475ac.js.map": "/Portfolio-react-project/static/js/main.831475ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f270ed76.css",
-    "static/js/main.5125d328.js"
+    "static/css/main.d14dca92.css",
+    "static/js/main.831475ac.js"
   ]
 }
