@@ -14,7 +14,7 @@ function HomePage () {
                         </li>
                         <li className="content-list__item">
                            <h2 className="title-2">Backend</h2>
-                           <p>Node.js, Express, MongoDB, Mongoose, JSON Web Token, Swagger, MockApi</p>
+                           <p>Node.js, Express, MongoDB, Mongoose, JSON Web Token, Fetch API, Swagger, MockApi</p>
                         </li> 
                         <li className="content-list__item">
                            <h2 className="title-2">General</h2>
