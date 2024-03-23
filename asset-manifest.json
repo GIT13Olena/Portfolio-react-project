@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-react-project/static/css/main.e84194c0.css",
-    "main.js": "/Portfolio-react-project/static/js/main.27749127.js",
-    "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.720109650fd53feed98f.png",
-    "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.ce842c377effbce066e5.png",
+    "main.js": "/Portfolio-react-project/static/js/main.857fb586.js",
+    "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.d706eb10bf2b74cf4eb8.png",
+    "static/media/All Project Movies.png": "/Portfolio-react-project/static/media/All Project Movies.3007b11f51b31f775ae5.png",
+    "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.4806fe5372fd776cfafa.png",
     "static/media/IMG_20231106_144434_628.jpg": "/Portfolio-react-project/static/media/IMG_20231106_144434_628.6662d4726be1ccdf53c7.jpg",
-    "static/media/All project Rental Car.png": "/Portfolio-react-project/static/media/All project Rental Car.57b6b51d2612f7195e57.png",
-    "static/media/All project Web Studio.png": "/Portfolio-react-project/static/media/All project Web Studio.8a4e5e8dd1e5d8cdfdee.png",
-    "static/media/Rental Car.png": "/Portfolio-react-project/static/media/Rental Car.873e4a91fc998e6c07b7.png",
+    "static/media/All project Rental Car.png": "/Portfolio-react-project/static/media/All project Rental Car.531c1e60bf60ca39f4fa.png",
+    "static/media/All project Web Studio.png": "/Portfolio-react-project/static/media/All project Web Studio.e7f25245b731a7bf2f07.png",
+    "static/media/Rental Car.png": "/Portfolio-react-project/static/media/Rental Car.b52cf8037538f0967f4b.png",
     "static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.pdf": "/Portfolio-react-project/static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.42d2376501d03577e426.pdf",
-    "static/media/All project Healthy Hub.png": "/Portfolio-react-project/static/media/All project Healthy Hub.d8a7ae4bb07f3a57f5bb.png",
-    "static/media/Web Studio.png": "/Portfolio-react-project/static/media/Web Studio.95dfaeb419ac04cd7796.png",
-    "static/media/Ice Cream.png": "/Portfolio-react-project/static/media/Ice Cream.3349edb20c18d2c948a3.png",
-    "static/media/BookStore.png": "/Portfolio-react-project/static/media/BookStore.069aded68d259619fe78.png",
-    "static/media/Healthy Hab.png": "/Portfolio-react-project/static/media/Healthy Hab.0aacf5ac36152f0371ab.png",
+    "static/media/Movies.png": "/Portfolio-react-project/static/media/Movies.1e1c2d335d820112a3c3.png",
+    "static/media/All project Healthy Hub.png": "/Portfolio-react-project/static/media/All project Healthy Hub.2d830172cf58c1930ca5.png",
+    "static/media/Web Studio.png": "/Portfolio-react-project/static/media/Web Studio.5b3e4170504bc1d0b6c4.png",
+    "static/media/Ice Cream.png": "/Portfolio-react-project/static/media/Ice Cream.d133126fe22c00c88e8f.png",
+    "static/media/BookStore.png": "/Portfolio-react-project/static/media/BookStore.9e0946df073344a0a642.png",
+    "static/media/Healthy Hab.png": "/Portfolio-react-project/static/media/Healthy Hab.f54f23f113c100647082.png",
+    "static/media/Phone Book.jpg": "/Portfolio-react-project/static/media/Phone Book.8eaa166e87353a5a8c67.jpg",
     "static/media/gitHub.svg": "/Portfolio-react-project/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "static/media/gitHub-black.svg": "/Portfolio-react-project/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/instagram.svg": "/Portfolio-react-project/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
@@ -25,10 +28,10 @@
     "static/media/arrow.svg": "/Portfolio-react-project/static/media/arrow.30bd8226a30274e3c304f44aa8d634b4.svg",
     "static/media/download CV.svg": "/Portfolio-react-project/static/media/download CV.80f902dee237153c2a8a2d5942c15493.svg",
     "main.e84194c0.css.map": "/Portfolio-react-project/static/css/main.e84194c0.css.map",
-    "main.27749127.js.map": "/Portfolio-react-project/static/js/main.27749127.js.map"
+    "main.857fb586.js.map": "/Portfolio-react-project/static/js/main.857fb586.js.map"
   },
   "entrypoints": [
     "static/css/main.e84194c0.css",
-    "static/js/main.27749127.js"
+    "static/js/main.857fb586.js"
   ]
 }
