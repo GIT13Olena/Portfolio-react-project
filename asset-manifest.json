@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-react-project/static/css/main.e84194c0.css",
-    "main.js": "/Portfolio-react-project/static/js/main.857fb586.js",
+    "main.js": "/Portfolio-react-project/static/js/main.c75ee193.js",
     "static/media/All project BookStore.png": "/Portfolio-react-project/static/media/All project BookStore.d706eb10bf2b74cf4eb8.png",
     "static/media/All Project Movies.png": "/Portfolio-react-project/static/media/All Project Movies.3007b11f51b31f775ae5.png",
     "static/media/All project Ice Cream.png": "/Portfolio-react-project/static/media/All project Ice Cream.4806fe5372fd776cfafa.png",
@@ -9,13 +9,13 @@
     "static/media/All project Rental Car.png": "/Portfolio-react-project/static/media/All project Rental Car.531c1e60bf60ca39f4fa.png",
     "static/media/All project Web Studio.png": "/Portfolio-react-project/static/media/All project Web Studio.e7f25245b731a7bf2f07.png",
     "static/media/Rental Car.png": "/Portfolio-react-project/static/media/Rental Car.b52cf8037538f0967f4b.png",
-    "static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.pdf": "/Portfolio-react-project/static/media/Resume Hirniak_Olena_JuniorFullStackDeveloper.42d2376501d03577e426.pdf",
     "static/media/Movies.png": "/Portfolio-react-project/static/media/Movies.1e1c2d335d820112a3c3.png",
     "static/media/All project Healthy Hub.png": "/Portfolio-react-project/static/media/All project Healthy Hub.2d830172cf58c1930ca5.png",
     "static/media/Web Studio.png": "/Portfolio-react-project/static/media/Web Studio.5b3e4170504bc1d0b6c4.png",
     "static/media/Ice Cream.png": "/Portfolio-react-project/static/media/Ice Cream.d133126fe22c00c88e8f.png",
     "static/media/BookStore.png": "/Portfolio-react-project/static/media/BookStore.9e0946df073344a0a642.png",
     "static/media/Healthy Hab.png": "/Portfolio-react-project/static/media/Healthy Hab.f54f23f113c100647082.png",
+    "static/media/Resume Hirniak_Olena_Frontend_Developer.pdf": "/Portfolio-react-project/static/media/Resume Hirniak_Olena_Frontend_Developer.411f5839c9252258cceb.pdf",
     "static/media/Phone Book.jpg": "/Portfolio-react-project/static/media/Phone Book.8eaa166e87353a5a8c67.jpg",
     "static/media/gitHub.svg": "/Portfolio-react-project/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
     "static/media/gitHub-black.svg": "/Portfolio-react-project/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
@@ -28,10 +28,10 @@
     "static/media/arrow.svg": "/Portfolio-react-project/static/media/arrow.30bd8226a30274e3c304f44aa8d634b4.svg",
     "static/media/download CV.svg": "/Portfolio-react-project/static/media/download CV.80f902dee237153c2a8a2d5942c15493.svg",
     "main.e84194c0.css.map": "/Portfolio-react-project/static/css/main.e84194c0.css.map",
-    "main.857fb586.js.map": "/Portfolio-react-project/static/js/main.857fb586.js.map"
+    "main.c75ee193.js.map": "/Portfolio-react-project/static/js/main.c75ee193.js.map"
   },
   "entrypoints": [
     "static/css/main.e84194c0.css",
-    "static/js/main.857fb586.js"
+    "static/js/main.c75ee193.js"
   ]
 }
